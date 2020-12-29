@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\RecursiveFunction\RecursiveFunctions\RecursiveFunction.csproj" />
+    <ProjectReference Include="..\QuickSort\QuickSort.csproj" />
   </ItemGroup>
 
 </Project>
